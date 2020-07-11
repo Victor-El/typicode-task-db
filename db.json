@@ -1,7 +1,7 @@
 [
   {
-    id: 1,
-    completed: false,
-    title: "Implement AsyncTaskLoader"
+    "id": 1,
+    "completed": false,
+    "title": "Implement AsyncTaskLoader"
   }
 ]
